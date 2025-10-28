@@ -88,7 +88,7 @@ This project analyzed the Shopify App Store to understand what makes certain app
 ## 🔗 Links
 - [Tableau Public Dashboard – Superstore Profitability](https://public.tableau.com/views/Book2_17510811094250/ReturnRateAnalysisSummary?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 - [Tableau Public Dashboard](https://public.tableau.com/views/Book1_17535849323360/FinalStory?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-- [Power BI Project Repository](#) *(Add link to your Power BI project folder or screenshots)*  
+- [Power BI Project Repository](https://docs.google.com/document/d/1NCsX01DJ12WqUd_RoLHExd_vrAtqihdUdH-ESCZsglc/edit?usp=sharing)  
 
 ---
 
