@@ -4,7 +4,7 @@ Projects I worked on while attending the **Data Analysis TripleTen Bootcamp**.
 
 | Project number | Title | Description |
 | :-----------: | ----------- | ----------- |
-| 1 | [Data Visualization with Tableau: Superstore Profitability Analysis](#https://public.tableau.com/views/Book1_17535849323360/FinalStory?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | The project task was to analyze the Superstore dataset to identify profit and loss centers, evaluate advertising strategies, and study product return patterns to improve overall profitability. |
+| 1 | [Data Visualization with Tableau: Superstore Profitability Analysis](#1-data-visualization-with-tableau-superstore-profitability-analysis) | The project task was to analyze the Superstore dataset to identify profit and loss centers, evaluate advertising strategies, and study product return patterns to improve overall profitability. |
 | 2 | [Power BI: Shopify App Analysis](#2-power-bi-shopify-app-analysis) | The project task was to analyze Shopify app marketplace data to identify key factors that influence app success using KPIs, DAX expressions, and interactive Power BI dashboards. |
 
 ---
@@ -68,7 +68,7 @@ This project involved analyzing data scraped from the Shopify App Store to under
 ---
 
 ## 🔗 Links
-- [Tableau Public Dashboard](#) *(Add your published Tableau link here)*  
+- [Tableau Public Dashboard](https://public.tableau.com/views/Book1_17535849323360/FinalStory?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - [Power BI Project Repository](#) *(Add link to Power BI project screenshots or repo folder)*  
 
 ---
